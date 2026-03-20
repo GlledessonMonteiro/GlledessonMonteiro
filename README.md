@@ -1,10 +1,11 @@
-# 👋 Olá, eu sou o Glledesson!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=45&center=true&vCenter=true&width=1000&color=8A2BE2&lines=Olá,+eu+sou+Glledesson" />
+</p>
 
 
-<p align="center"
-  font-size 400px>
-  🎓 Estudante de Desenvolvimento de Sistemas <br>
-  🚀 Em busca de oportunidade de estágio em TI  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&center=true&vCenter=true&width=900&color=FFFFFF&lines=Estudante+de+Desenvolvimento+de+Sistemas;Futuro+Desenvolvedor+Full+Stack;Bem-vindo+ao+meu+GitHub" />
 </p>
 
 <p align="center">
@@ -13,6 +14,17 @@
 
 ---
 
+## 🦇 Sobre mim
+
+💻 Desenvolvedor em formação  
+🎓 Estudante de Desenvolvimento de Sistemas  
+🚀 Em busca da primeira oportunidade em TI  
+
+🖤 Evoluindo todos os dias com projetos e estudos.
+
+---
+
+## 🦇 Estatísticas
 
 <p align="center">
   <img 
@@ -27,17 +39,15 @@
 
 ---
 
-
+## 🦇 Tecnologias
 
 <p align="center">
-  <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
 </p>
 
 ---
 
-
+## 🦇 Contato
 
 <p align="center">
   <a href="https://www.instagram.com/ar3sberserker/" target="_blank">
