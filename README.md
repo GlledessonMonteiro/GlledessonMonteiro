@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou o Glledesson!
 
 
-<p align="center">
+<p align="center"
+  font-size 400px>
   🎓 Estudante de Desenvolvimento de Sistemas <br>
   🚀 Em busca de oportunidade de estágio em TI  
 </p>
