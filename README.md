@@ -35,25 +35,8 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark"/>
 </p>
 
----
 
-# 🦇 Estatísticas do GitHub
 
-<p align="center">
-
-<img 
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=GlledessonMonteiro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
-/>
-
-<img 
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlledessonMonteiro&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
-/>
-
-</p>
-
----
 
 
 ---
